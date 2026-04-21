@@ -5,3 +5,7 @@ Created a Single-Page CV static webpage, I'm following the roadmap.sh project se
 The goal is to create a Single page cv using html!
 
 but i will also add a little bit of css so it looks good.
+
+https://roadmap.sh/projects/single-page-cv
+
+https://single-page-cv-tau.vercel.app/
